@@ -1,0 +1,12 @@
+2023-08-28 09:33:32 - root - INFO - Testing import_data: SUCCESS
+2023-08-28 09:33:33 - root - INFO - Correlation plot created
+2023-08-28 09:33:33 - root - INFO - One or more one-hot encoded columns created for Gender
+2023-08-28 09:33:33 - root - INFO - Churn column removed by perform_feature_engineering
+2023-08-28 09:33:33 - root - INFO - CLIENTNUM column removed by perform_feature_engineering
+2023-08-28 09:33:33 - root - INFO - X_train has the correct number of rows
+2023-08-28 09:33:33 - root - INFO - X_test has the correct number of rows
+2023-08-28 09:33:33 - root - INFO - y_train has the correct number of rows
+2023-08-28 09:33:33 - root - INFO - y_test has the correct number of rows
+2023-08-28 09:36:48 - root - INFO - classification_results.png is created
+2023-08-28 09:36:48 - root - INFO - feature_importances_rfc.png is created
+2023-08-28 09:36:48 - root - INFO - rfc_model.pkl is created
