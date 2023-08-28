@@ -25,8 +25,8 @@ This project is a Python package for training and testing two models (Random For
 - `images_test/*/*`: same as `images_final/*/*` but for the unit tests      
 
 - `models/`:
-  - `rfc_model.pkl`: File containg random forest classifier model
   - `logistic_model.pkl`: File containing logistic regression model
+  - (rfc_model.pkl not included because > 25 MB limit for uploading) 
 
 - `churn_library.py`: Refactored script to execute same tasks as churn_notebook.ipynb
 - `churn_script_logging_and_testing.py`: Unit testing file. Uses `pytest`
